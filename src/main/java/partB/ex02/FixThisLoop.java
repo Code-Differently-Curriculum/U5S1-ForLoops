@@ -1,9 +1,17 @@
 package partB.ex02;
 
 public class FixThisLoop {
-    public static void main(String[] args) {
-        for(;;){
-            System.out.println("Hello");
+
+    public static String hello(){
+        String response = "";
+        for(;; ){
+
         }
+
+    }
+    public static void main(String[] args) {
+
+        String outputFromHello = hello();
+        System.out.println(outputFromHello);
     }
 }

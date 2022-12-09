@@ -18,35 +18,20 @@ In the package `partA.ex01` look at the file `Countdown`
   * How the value of i changes
 
 #### Step 03
-* modify the code to count up from 0 to 5
-* modify the code to count all even numbers
-  from 0 to 20
+* write the code to count up from 0 to 5 in the `countUpLoop` method
+* write the code to count all even numbers
+  from 0 to 20 in the `evenNumber` method
 
 ### Exercise 02
 
 #### Step 01
 
-In the package `partA.ex02` look at the file `InfiniteLoop`
+In the package `partA.ex03` look at the file `ScopeRunner`
 
 #### Step 02
 
-*  Execute `InfiniteLoop` and observe the
-  output
-
-#### Step 03
-
-*  Modify the for loop in `InfiniteLoop` to
-   print “Hello” five times
-
-### Exercise 03
-
-#### Step 01
-
-In the package `partA.ex03` look at the file `ScopeTest`
-
-#### Step 02
-
-*   `ScopeTest` is broken. Can you fix it?
+*   `ScopeRunner` is broken. Can you fix it?
+* uncomment the code by deleting line 7 and 30 and fix the error
 *  You should get the following output:
 ```
  64 32 16 8 4 2 1
