@@ -4,9 +4,11 @@ public class FixThisLoop {
 
     public static String hello(){
         String response = "";
-        for(;; ){
+        /**
+         * Your code goes here
+         */
 
-        }
+        return response;
 
     }
     public static void main(String[] args) {
