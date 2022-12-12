@@ -1,4 +1,4 @@
-package partA.ex01;
+package com.codedifferently.labs.partA.ex01;
 
 public class Countdown {
     public static String countDownLoop() {

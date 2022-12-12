@@ -1,4 +1,4 @@
-package partB.ex03;
+package com.codedifferently.labs.partB.ex03;
 
 public class Challenge {
     public static String challenge(){

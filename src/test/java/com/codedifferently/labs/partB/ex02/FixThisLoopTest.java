@@ -1,8 +1,8 @@
-package partB.ex02;
+package com.codedifferently.labs.partB.ex02;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
-import partB.ex02.FixThisLoop;
+import com.codedifferently.labs.partB.ex02.FixThisLoop;
 
 public class FixThisLoopTest {
     @Test

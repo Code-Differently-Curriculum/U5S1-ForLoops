@@ -1,4 +1,4 @@
-package partB.ex01;
+package com.codedifferently.labs.partB.ex01;
 
 public class CountingExample {
     public static String counting() {

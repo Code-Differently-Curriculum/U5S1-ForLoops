@@ -1,5 +1,6 @@
-package partB.ex03;
+package com.codedifferently.labs.partB.ex03;
 
+import com.codedifferently.labs.partB.ex03.Challenge;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 

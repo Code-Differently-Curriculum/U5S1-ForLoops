@@ -1,4 +1,4 @@
-package partA.ex01;
+package com.codedifferently.labs.partA.ex01;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;

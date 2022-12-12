@@ -1,4 +1,4 @@
-package partB.ex02;
+package com.codedifferently.labs.partB.ex02;
 
 public class FixThisLoop {
 

@@ -1,5 +1,6 @@
-package partB.ex01;
+package com.codedifferently.labs.partB.ex01;
 
+import com.codedifferently.labs.partB.ex01.CountByTens;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
