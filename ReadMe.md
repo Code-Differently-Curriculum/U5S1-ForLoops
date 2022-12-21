@@ -2,6 +2,7 @@
 
 * Part A - Foundations 6.1
 * Part B - Foundations Practice
+* Part C - Challenge
 
 ## Part A
 
