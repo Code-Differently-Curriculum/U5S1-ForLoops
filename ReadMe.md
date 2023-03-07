@@ -83,7 +83,7 @@ In the package `partB.ex02` look at the file `LoopPrintExample` and write commen
 
 In the package `partB.ex02` complete the `FixThisLoop` per the following:
 
-    Modify the existing loop so that it prints "Hello" five times
+   Create a loop so that it prints "Hello" five times
 
 Your program is working correctly, if when run, the following is the output:
 ```
